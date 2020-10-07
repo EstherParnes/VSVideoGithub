@@ -11,6 +11,7 @@ namespace VSVideoGithub
       static void Main(string[] args)
       {
          Console.WriteLine("this is not another hello world");
+         Console.WriteLine("now I am making a change and adding code");
       }
    }
 }
