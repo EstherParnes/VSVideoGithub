@@ -12,6 +12,10 @@ namespace VSVideoGithub
       {
          Console.WriteLine("this is not another hello world");
          Console.WriteLine("now I am making a change and adding code");
+
+         //***************
+         //add this line to the local to see how two way sync works
+         //***************
       }
    }
 }
