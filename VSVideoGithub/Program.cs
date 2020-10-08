@@ -16,6 +16,7 @@ namespace VSVideoGithub
          //***************
          //add this line to the local to see how two way sync works
          //***************
+         //add this line too
       }
    }
 }
